@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kovy424
-- 👀 I’m interested in Programming and Computer Networking
-- 🌱 I’m currently learning Programming and computer networking
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Web development, Programming and Computer Networking
+- 🌱 I’m currently learning Web development, Programming and Computer Networking
+- 💞️ I’m looking to collaborate on ReactJS, NextJS
 - 📫 How to reach me: 
 
 <!---
