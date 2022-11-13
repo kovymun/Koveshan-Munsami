@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kovy424
+- 👋 Hi, I’m @Koveshan Munsami
 - 👀 I’m interested in Web development, Programming and Computer Networking
 - 🌱 I’m currently learning Web development, Programming and Computer Networking
 - 💞️ I’m looking to collaborate on ReactJS, NextJS
